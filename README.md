@@ -1,0 +1,1 @@
+Simple Nord Discord Theme
